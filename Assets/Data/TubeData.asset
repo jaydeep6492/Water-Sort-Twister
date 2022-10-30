@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0909c27384270f54dafae92de9e5c11f, type: 3}
+  m_Name: TubeData
+  m_EditorClassIdentifier: 
+  currentTubeId: 0
+  tubes:
+  - tubePrefab: {fileID: 7993208533526805398, guid: 6dd9e37480a11394087f1349fc112bb4,
+      type: 3}
+    tubePrice: 1000
+    itemPurchase: 1
+  - tubePrefab: {fileID: 7993208533526805398, guid: ff3271a60e2935a4ead1ad6f1c9bbdb4,
+      type: 3}
+    tubePrice: 1500
+    itemPurchase: 0
+  - tubePrefab: {fileID: 7993208533526805398, guid: 6cf20760a177dbe43b1b784e6bffabc9,
+      type: 3}
+    tubePrice: 2000
+    itemPurchase: 0
+  - tubePrefab: {fileID: 7993208533526805398, guid: a7874684fbdb58e4ab98eaf8388a583a,
+      type: 3}
+    tubePrice: 3000
+    itemPurchase: 0
+  - tubePrefab: {fileID: 7993208533526805398, guid: dc3d64c4d73cc444aa52b06b90833c09,
+      type: 3}
+    tubePrice: 4000
+    itemPurchase: 0
+  - tubePrefab: {fileID: 7993208533526805398, guid: 01d340b9497230c47927879d930c6b36,
+      type: 3}
+    tubePrice: 5000
+    itemPurchase: 0
